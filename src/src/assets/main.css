@@ -1,0 +1,62 @@
+@import './base.css';
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+#app {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: 0.4s;
+}
+
+a:hover {
+  border-bottom: #8593e2 1px solid;
+  color: #8593e2;
+}
+
+.progress-bar {
+  background: #1a204370;
+  border: 0.05rem solid #334155;
+  border-radius: 0.25rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  height: 1.25rem;
+  margin-top: 0.5rem;
+  width: 500px;
+  max-width: 100%;
+}
+
+.progress {
+  background: #8593e270;
+  border-radius: 0.25rem;
+  height: 1.20rem;
+  width: 0;
+  transition: width 0.5s ease-in;
+}
+
+@media (hover: hover) {
+}
+
+@media only screen and (min-width: 1025px) {
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  
+}
+
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  .top-header.header-content h1 {
+    font-size: 1rem;
+  }
+}
+
+
+@media only screen and (max-width: 480px) {
+}
+
+
+

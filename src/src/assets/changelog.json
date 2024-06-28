@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Initial Release",
+    "version": "1.0.0",
+    "description": "Initial Release",
+    "changes": [
+      "Inital roll-out to Vercel & Github."
+    ]
+  }
+] 
